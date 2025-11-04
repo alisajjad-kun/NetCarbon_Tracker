@@ -50,7 +50,7 @@ Proyek ini dikembangkan oleh mahasiswa **Teknologi Rekayasa Internet (TRI)** seb
 ---
 
 ## System Architecture
-![Network Topology](docs/TOPOLOGY_DIAGRAM.png)
+![Network Topology](docs/TOPOLOGY_DIAGRAM.jpeg)
 
 ---
 
