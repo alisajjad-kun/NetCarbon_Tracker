@@ -70,10 +70,10 @@ Proyek ini dikembangkan oleh mahasiswa **Teknologi Rekayasa Internet (TRI)** seb
 ---
 
 ## Project Team
-Muhammad Daffa Izdihar		(25/560183/SV/26399) 	(Project Manager)
-Ali Sajjad Makarim		(25/566079/SV/27031)	(Programmer)
+Muhammad Daffa Izdihar	      	(25/560183/SV/26399) 	(Project Manager)
+Ali Sajjad Makarim		          (25/566079/SV/27031)	(Programmer)
 Muhammad Arkhan Rosangga Putra	(25/566316/SV/27063)	(System Designer)
-Alesha Khairunisa		(25/564808/SV/26870)	(System Analyst)
+Alesha Khairunisa		            (25/564808/SV/26870)	(System Analyst)
 
 
 
